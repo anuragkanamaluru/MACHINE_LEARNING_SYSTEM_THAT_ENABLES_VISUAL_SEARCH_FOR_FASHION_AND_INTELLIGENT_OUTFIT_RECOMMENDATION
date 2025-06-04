@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+requests
+Pillow
+torch
+torchvision
+faiss-cpu
